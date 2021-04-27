@@ -23,7 +23,7 @@ TLD(Top Level Domain ) is the last part of the website name like (.com ,.in ,.or
 Subdomain is a part which comes before the main domain and used to separate the sections in a website like forums.name.com will direct the website to forums pages **and** schedule.name.com will direct the website to schedule page .
 
 **8.What is FQDN?** <br />
-Fully qualified domain name is the complete domain of a specific website like www.google.com
+Fully qualified domain name is the complete domain of a specific website like` www.google.com`
 
 **9.What is the root domain count?** <br />
 There are 13 root domains 
