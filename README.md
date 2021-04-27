@@ -1,4 +1,4 @@
-# Documentation on DNS
+#  DNS
 
 
 **1.What is dns?** <br />
