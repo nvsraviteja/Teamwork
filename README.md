@@ -30,7 +30,7 @@
 
 
 ***
-
+## Commands for troubleshooting 
 
 **10.What is `nslookup` command?** <br />
 * nslookup(Name server loopup) is used for finding ip address of a website  <br />
@@ -46,5 +46,5 @@
 `dig <url>`
 
 **13.Whati is ping?** <br />
-*It will check whether a website is available or not . <br />
+* It will check whether a website is available or not . <br />
 `ping <url>`
