@@ -19,31 +19,32 @@ ICANN(Internet Corporation for Assigned Names and Numbers) manages registrars.
 **6.What is TLD?**<br />
 TLD(Top Level Domain ) is the last part of the website name like (.com ,.in ,.org ) and it used to identify the website type like non-profit organization or profit 
 
-**7.What is subdomain?**
+**7.What is subdomain?** <br />
 Subdomain is a part which comes before the main domain and used to separate the sections in a website like forums.name.com will direct the website to forums pages **and** schedule.name.com will direct the website to schedule page .
 
-**8.What is FQDN?**
+**8.What is FQDN?** <br />
 Fully qualified domain name is the complete domain of a specific website like www.google.com
 
-**9.What is the root domain count?**
+**9.What is the root domain count?** <br />
 There are 13 root domains 
 
 
 ***
 
 
-**What is `nslookup` command?**
-nslookup(Name server loopup) is used for finding ip address of a website 
+**What is `nslookup` command?** <br />
+nslookup(Name server loopup) is used for finding ip address of a website  <br />
 `nsloopkup <website_name>`
+ <br />
 
-**What is curl ?**
-curl command is used to get website information in html format .
+**What is curl ?** <br />
+curl command is used to get website information in html format . <br />
 `curl <website_name>`
 
-**What is dig?**
-dig is used to get website information like website ip address ,records etc.
+**What is dig?** <br />
+dig is used to get website information like website ip address ,records etc. <br />
 `dig <url>`
 
-**Whati is ping?**
-It will check whether a website is available or not .
+**Whati is ping?** <br />
+It will check whether a website is available or not . <br />
 `ping <url>`
