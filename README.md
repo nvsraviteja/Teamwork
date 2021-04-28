@@ -35,25 +35,26 @@
 **Q.What is  DNS forwarder ?**
 * It takes the dns query (web_page name) and forward it to other dns server.
 
-dns query ----------> **dns resolver**
-			|<-----> Root server(forwarder)
-			|<-----> TLD server(forwarder)
-			|<----->authoritative name server 
+dns query ----------> **dns resolver** <br/>
+			|<-----> Root server(forwarder) <br/>
+			|<-----> TLD server(forwarder) <br/>
+			|<----->authoritative name server  <br/>
+
   
 
 ***
 ## Commands for troubleshooting 
 
-**10.What is `nslookup` command?** <br />
-* nslookup(Name server loopup) is used for finding ip address of a website  <br />
+**Q.What is `nslookup` command?** <br />
+* nslooup(Name server lookup) is used for finding ip address of a website  <br />
 `nsloopkup <website_name>`
  <br />
-
-**11.What is curl ?** <br />
+  
+**Q.What is curl ?** <br />
 * curl command is used to get website information in html format . <br />
 `curl <website_name>`
 
-**12.What is dig?** <br />
+**Q.What is dig?** <br />
 * dig is used to get website information like website ip address ,records etc. <br />
 `dig <url>`
 
