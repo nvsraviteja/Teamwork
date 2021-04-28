@@ -36,6 +36,8 @@
 * It takes the dns query (web_page name) and forward it to other dns server.
 
 
+**Q.What is dns cache?**
+* It is the  storage area in which recently or visited webpage ip address is stored so that it doesn't required to spend time in finding the ip address of the particular webpage.
 
 
 
