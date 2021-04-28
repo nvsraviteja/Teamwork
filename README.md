@@ -37,7 +37,7 @@
 
 
 **Q.What is dns cache?**
-* It is the  storage area in which recently or visited webpage ip address is stored so that it doesn't required to spend time in finding the ip address of the particular webpage.
+* It is the  storage area in which recently or visited webpage ipaddress is stored so that it can directly go to that web page without spending  time in finding the ip address of the particular webpage.
 
 
 
@@ -60,6 +60,6 @@
 * dig is used to get website information like website ip address ,records etc. <br />
 `dig <url>`
 
-**13.Whati is ping?** <br />
+**Q.Whati is ping?** <br />
 * It will check whether a website is available or not . <br />
 `ping <url>`
