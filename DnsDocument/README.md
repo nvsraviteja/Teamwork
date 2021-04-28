@@ -30,7 +30,8 @@
 
 
 **Q.What is authoritative name server ?**
-*  It is last phase in dns resolver and it provides the ip address of the particular web page.
+*  It is last phase in dns resolver and it provides the ip address and information related to  the particular web page. 
+
 
 **Q.What is  dns forwarder ?**
 * It takes the dns query (web_page name) and forward it to other dns server.
