@@ -16,6 +16,6 @@ provider "aws" {
 
 ### You should now see a EC2 Instance with Ubuntu Image and having Django Installed, you can also SSH to your Instance and check "django-admin --version" to see if the django is installed 
 
-# You should have installdjango.sh provider.tf variable.tf and resources.tf in your directory before you do "terraform apply"
+# You should have installdjango.sh, provider.tf, variable.tf and resources.tf in your directory before you do "terraform apply"
 
 
