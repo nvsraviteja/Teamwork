@@ -35,10 +35,10 @@
 **Q.What is  DNS forwarder ?**
 * It takes the dns query (web_page name) and forward it to other dns server.
 
-dns query ----------> **dns resolver** <br/>
-			|<-----> Root server(forwarder) <br/>
-			|<-----> TLD server(forwarder) <br/>
-			|<----->authoritative name server  <br/>
+
+
+
+
 
   
 
