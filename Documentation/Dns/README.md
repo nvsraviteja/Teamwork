@@ -49,8 +49,8 @@
 ## Commands for troubleshooting 
 
 **Q.What is `nslookup` command?** <br />
-* nslooup(Name server lookup) is used for finding ip address of a website  <br />
-`nsloopkup <website_name>`
+* nslookup(Name server lookup) is used for finding ip address of a website  <br />
+`nslookup <website_name>`
  <br />
   
 **Q.What is curl ?** <br />
