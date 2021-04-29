@@ -2,13 +2,13 @@
 
 
 **Q.What is dns?** <br />
-*  It is a Domain Name Service which is used to map from website name to website ip address
+*  Domain name service  is used to map from domain name to it's ip address.
 
 **Q.What is the port no of dns ?** <br />
 *  port 53
 
 **Q.What is a dns resolver?** <br />
-*  It is used to track down the ip address from given host name.
+*  It is used to track down the ip address from given domain name.
 
 **Q.What is Domain Name Registrar?**<br />
 *  It is a company in which we can purchase and register domain names
@@ -17,28 +17,27 @@
 * ICANN(Internet Corporation for Assigned Names and Numbers) manages registrars.
 
 **Q.What is TLD?**<br />
-* TLD(Top Level Domain ) is the last part of the website name like (.com ,.in ,.org ) and it used to identify the website type like non-profit organization or profit 
+* TLD(Top Level Domain ) is the last part of the domain name like (.com ,.in ,.org ) .
 
 **Q.What is subdomain?** <br />
-* Subdomain is a part which comes before the main domain and used to separate the sections in a website like forums.name.com will direct the website to forums pages **and** schedule.name.com will direct the website to schedule page .
+*** Name which comes before main domain like **images.google.com** in which **images**  is the subdomain and the purpose is to create the different sections under a single domain.
 
 **Q.What is FQDN?** <br />
 * Fully qualified domain name is the complete domain of a specific website like` www.google.com`
 
-**Q.What is the root domain count?** <br />
-* There are 13 root domains 
+**Q.How many root domains do we have?**
+* There are 13 root domains .
 
 
 **Q.What is authoritative name server ?**
-*  It is last phase in dns resolver and it provides the ip address and information related to  the particular web page. 
-
+* Name server which gives information like ip address to a particular domain name.
 
 **Q.What is  dns forwarder ?**
 * It takes the dns query (web_page name) and forward it to other dns server.
 
 
 **Q.What is dns cache?**
-* It is the  storage area in which recently or visited webpage ipaddress is stored so that it can directly go to that web page without spending  time in finding the ip address of the particular webpage.
+* It is the  storage area in which recently or visited domain  ipaddress is stored so that it can directly go to that web page without spending  time in searching  the ip address of the particular domain name.
 
 
 
