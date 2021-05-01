@@ -1,5 +1,4 @@
-#  DNS
-
+#  DNS Q&A
 
 **Q.What is dns?** <br />
 *  Domain name service  is used to map from domain name to it's ip address.
