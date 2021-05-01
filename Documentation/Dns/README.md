@@ -8,13 +8,16 @@
 *  port 53
 
 **Q.What is a dns resolver?** <br />
-*  It is used to track down the ip address from given domain name.
-
+* It is 
 **Q.What is Domain Name Registrar?**<br />
 *  It is a company in which we can purchase and register domain names
 
 **Q.Who manages registrar?**<br />
 * ICANN(Internet Corporation for Assigned Names and Numbers) manages registrars.
+
+**Q.What is IANA?**
+*IANA (Internet Assigned Numbers Authority) is a part of ICANN and it is responsible for maitaining global uniqueness in ip's ,domain names etc. 
+
 
 **Q.What is TLD?**<br />
 * TLD(Top Level Domain ) is the last part of the domain name like (.com ,.in ,.org ) .
@@ -33,12 +36,10 @@
 * Name server which gives information like ip address to a particular domain name.
 
 **Q.What is  dns forwarder ?**
-* It takes the dns query (web_page name) and forward it to other dns server.
-
+* A dns server which forwards the dns query to another dns server.
 
 **Q.What is dns cache?**
-* It is the  storage area in which recently or visited domain  ipaddress is stored so that it can directly go to that web page without spending  time in searching  the ip address of the particular domain name.
-
+* A dns cache stores the data of recent dns queries like recently visited .
 
 
 
@@ -56,12 +57,17 @@
 * curl command is used to get website information in html format . <br />
 `curl <website_name>`
 
+
+
 **Q.What is dig?** <br />
 * dig is used to get website information like website ip address ,records etc. <br />
 `dig <url>`
 
+**Q.What is the difference between dig and nslookup?**
+* dig uses the OS resolver libraries and  nslookup uses is own internal ones.
+
 **Q.Whati is ping?** <br />
-* It will check whether a website is available or not . <br />
+* It is used to check the connectivity between user and server by sending data packets from user to server.  
 `ping <url>`
 
 
