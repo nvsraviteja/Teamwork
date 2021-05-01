@@ -8,7 +8,8 @@
 *  port 53
 
 **Q.What is a dns resolver?** <br />
-* It is 
+* It takes down the domain name from user and interacts with dns servers like (forwarder and authritative name server) and finds the ip address of the domain name.
+<br/>
 **Q.What is Domain Name Registrar?**<br />
 *  It is a company in which we can purchase and register domain names
 
@@ -23,7 +24,7 @@
 * TLD(Top Level Domain ) is the last part of the domain name like (.com ,.in ,.org ) .
 
 **Q.What is subdomain?** <br />
-*** Name which comes before main domain like **images.google.com** in which **images**  is the subdomain and the purpose is to create the different sections under a single domain.
+* Name which comes before main domain like **images.google.com** in which **images**  is the subdomain and the purpose is to create the different sections under a single domain.
 
 **Q.What is FQDN?** <br />
 * Fully qualified domain name is the complete domain of a specific website like` www.google.com`
