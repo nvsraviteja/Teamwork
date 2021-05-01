@@ -9,7 +9,7 @@
 
 **Q.What is a dns resolver?** <br />
 * It takes down the domain name from user and interacts with dns servers like (forwarder and authritative name server) and finds the ip address of the domain name.
-<br/>
+
 **Q.What is Domain Name Registrar?**<br />
 *  It is a company in which we can purchase and register domain names
 
@@ -17,7 +17,7 @@
 * ICANN(Internet Corporation for Assigned Names and Numbers) manages registrars.
 
 **Q.What is IANA?**
-*IANA (Internet Assigned Numbers Authority) is a part of ICANN and it is responsible for maitaining global uniqueness in ip's ,domain names etc. 
+* IANA (Internet Assigned Numbers Authority) is a part of ICANN and it is responsible for maitaining global uniqueness in ip's ,domain names etc. 
 
 
 **Q.What is TLD?**<br />
