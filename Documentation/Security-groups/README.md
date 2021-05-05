@@ -6,15 +6,15 @@
 
 * SG(Security Group) Vs NACL(Network Access Contorl List)
     * SG is statefull
-    * NACL Steteless
+    * NACL Stateless
     * SG - By default no inbound (Ingress) rules and all outbound (Egress) rules are open
-    * NACL - By Default all Deny (both Ingress, and Egress)
+    * NACL - By Default all are  Denied  (both Ingress, and Egress)
     * NACL - Subnet level
     * SG - Instance EC2
     * NACL - has deny option
     * SG - only allow
 
-* What is port 
+* What is port ?
     *  Entry point or exit point 
 * Total port
     * 65535 (TCP)
