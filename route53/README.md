@@ -49,3 +49,19 @@
 
 ## Latency routing policy
 **It is used when you have resources in multiple aws region and you want to route traffic to thee region that provides best latency**<br/>
+
+## Failover routing policy 
+**It lets you route traffic to a resource that is healthy when the first resource is  unhealthy it routes to other resource**<br/>
+
+## Multivalue answer routing policy 
+
+
+# Hosted Zones 
+**It is a container for a record**<br/>
+**Records contains information about how you want to route traffic for a speciffic domain**<br/>
+
+## Health checks for route53
+**It monitors the health and performense of your wweb applications,web server and other resources**<br/>
+
+
+
