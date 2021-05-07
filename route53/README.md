@@ -31,12 +31,12 @@
 **When ever you create a record you choose a routing policy**<br/>
 **It determines how route53 should responds to the queries**<br/>
 **We have some routing policies those are**<br/>
-**Simple routing policy**<br/>
-**Weighted routing policy**<br/>
-**Geolocation routing policy**<br/>
-**Latency routing policy**<br/>
-**failover routing policy**<br/>
-**Multivalue answer routing policy**<br/>
+***Simple routing policy**<br/>
+***Weighted routing policy**<br/>
+***Geolocation routing policy**<br/>
+***Latency routing policy**<br/>
+***failover routing policy**<br/>
+***Multivalue answer routing policy**<br/>
 
 ## Simple routing policy
 **It is used for a single resource that performs a given function for your domain**<br/>
