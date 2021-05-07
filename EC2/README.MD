@@ -12,7 +12,7 @@
 **A) It is a place where we can buy and sell the software and applications**<br/>
 
 ## Launching instance
-**there are 9 steps to launch instance**<br/>
+**there are few steps to launch instance**<br/>
 **1) Select the instance that required**<br/>
 **2) Choose instance type it's the hardware of vm**<br/>
 **3) Configure instance where we can select the number of instances we want**<br/>
