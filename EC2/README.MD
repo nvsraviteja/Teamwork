@@ -44,7 +44,7 @@
 **Where we specify the storage of instance**
 
 ## Tags
-**Tags are used to identify the instance techo are like key-value pair**<br/>
+**Tags are used to identify the instance they are like key-value pair**<br/>
 **To display the instance name in dashboard we need to write keyname with Name inthis N should be in uppercase**</br/>
 
 ## PEM key
