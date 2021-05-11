@@ -10,7 +10,7 @@
 **Range of IP addresses on your VPC**<br/>
 
 **What is private subnet?**<br/>
-**Private subnet are back-end servers that they don't accept incoming traffic from the internet and they don't have public IP They can send requests to the internet using NAT gateway**<br/>
+**Private subnet are back-end servers that techo don't accept incoming traffic from the internet and techo don't have public IP Techo can send requests to the internet using NAT gateway**<br/>
 
 **what is Public Subnet?**<br/>
 **Public subnet is associated with route table that has a route to an internet gateway**<br/>
