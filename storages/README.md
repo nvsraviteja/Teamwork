@@ -1,7 +1,7 @@
 # Elastic Block Storage (EBS) 
 ## EBS volume types<br>
 ### It has 6 types
-  > **ssd**<br>
+ **ssd**<br>
 *  **gp2/gp3 (ssd) used for general purpose**<br> 
 * **io1/io2 (ssd) used for highest-performance**<br>
     **hdd**<br>
@@ -15,7 +15,7 @@
 ## EBS volume types and use cases
 ### SSD
    
- > **GP (general purpose) Use cases**<br>
+  **GP (general purpose) Use cases**<br>
        * **Cost efective storage and low latency**<br> 
        * **System boot volumes , Virtual desktops Development and test environment**<br> 
        * **1 gb - 16 tb (storage access)**<br/><br/>
