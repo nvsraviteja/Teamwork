@@ -9,8 +9,8 @@
       * sc1 Lowest cost hdd volume designed for less frequently accessed workload
     * Previous generation
 
-### Ebs volumes are characterized in size | throughput | iops (input output per sec)
-### only gp2/gp3 and io1/io2 can be used as boot volumes 
+#### Ebs volumes are characterized in size | throughput | iops (input output per sec)
+#### only gp2/gp3 and io1/io2 can be used as boot volumes 
 
 ## EBS volume types and use cases
 ### SSD
